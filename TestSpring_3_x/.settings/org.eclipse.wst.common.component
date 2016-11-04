@@ -2,6 +2,7 @@
     <wb-module deploy-name="TestSpring_3_x">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/resource"/>
         <property name="context-root" value="TestSpring_3_x"/>
         <property name="java-output-path" value="/TestSpring_3_x/build/classes"/>
     </wb-module>
